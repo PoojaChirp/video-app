@@ -8,3 +8,5 @@ const appConfig = {
 
 export  default  appConfig
 ```
+
+Since the App run on the localhost:3000, we can make it accessible through ngrok. Whereas in production it is going to be customer's service IP/Domains. 
